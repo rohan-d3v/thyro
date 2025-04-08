@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Apr 2025 16:30:43 at https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog= +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog= -O1 "C:\Users\rohan\Documents\thyro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:32:27	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Layout/js/scripts-jquery-1.9.1.js (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:27	Error: 	"Not Found" (404) at link https://cdn.jsdelivr.net/gh/niklasvh/html2canvas@master/dist/html2canvas.min.js (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:27	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/menu.asp?page=opppage (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:27	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/footer_inner.html (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:27	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/menu.asp?page=servicepage (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/sitemap.html (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Best_Viewed.html (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Terms.html (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Privacy_Policy.html (from https://b2capi.thyrocare.com/Authenticity.aspx?val=vABv6bUSmC3dJwpF2ziMoMD2yDwN0vJfape7in78Qog=)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/layout/layout/plugins/PIE.htc (from https://b2capi.thyrocare.com/layout/style.css)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/layout/images/icon_message_fail.png (from https://b2capi.thyrocare.com/layout/style.css)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/layout/images/animated-overlay.gif (from https://b2capi.thyrocare.com/layout/formvalidation.css)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/layout/images/ui-bg_flat_75_ffffff_40x100.png (from https://b2capi.thyrocare.com/layout/formvalidation.css)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/layout/images/ui-bg_glass_95_fef1ec_1x400.png (from https://b2capi.thyrocare.com/layout/formvalidation.css)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Layout/plugins/AjaxDropDown/spinner.gif (from https://b2capi.thyrocare.com/Layout/plugins/AjaxDropDown/select2.css)
+16:32:54	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Layout/plugins/AjaxDropDown/select2x2.png (from https://b2capi.thyrocare.com/Layout/plugins/AjaxDropDown/select2.css)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/menu.asp (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/footer.html (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/expanding_partner/We_are_expanding.aspx (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/expanding_partner/images/banner.jpg (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Test_Menu.asp (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Technologies.html (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Instruments.aspx (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Client_Entry.aspx (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Corporate_Enquiry.aspx (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Career.aspx (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Report_Track.aspx (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/HS_list.asp (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Accreditation.html (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Laboratory.html (from https://b2capi.thyrocare.com/index.html)
+16:32:55	Error: 	"Not Found" (404) at link https://b2capi.thyrocare.com/Best (from https://b2capi.thyrocare.com/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 12 seconds : 431 links scanned, 399 files written (3997788 bytes overall) [4066607 bytes received at 30807 bytes/sec], 273281 bytes transferred using HTTP compression in 2 files, ratio 29%, 30.8 requests per connection
+(31 errors, 0 warnings, 0 messages)
